@@ -1,71 +1,57 @@
-# 👋 Hi, I'm Ganapathi Vara Prasada
+<!-- ===================== BANNER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00c6ff&height=230&section=header&text=Ganapathi%20Vara%20Prasada&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20Developer%20%7C%20Node.js%20%7C%20Express.js%20%7C%20MongoDB&descAlignY=60&descSize=16" alt="Banner"/>
 
-<h3 align="center">🚀 Backend Developer | Node.js | Express.js | MongoDB</h3>
+<div align="center">
 
-<p align="center">
-  Building scalable backend applications, RESTful APIs and database-driven solutions.
-</p>
+<a href="https://github.com/ganapathi9191">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ganapathi+Vara+Prasada+%F0%9F%91%8B;Backend+Developer+%F0%9F%9A%80;Building+Scalable+REST+APIs+%E2%9A%99%EF%B8%8F;Node.js+%7C+Express.js+%7C+MongoDB" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="assets/github-banner.png" alt="Ganapathi - Backend Developer" width="100%" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/ganapathi9191">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ganapathivaraprasad123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=ganapathi9191&label=Profile%20Views&color=1f6feb&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ganapathi9191?label=Followers&style=for-the-badge&logo=github&color=0d1117&labelColor=1f6feb)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/kamisetti-ganapathivaraprasad-0ab049245"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ganapathivaraprasad123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/ganapathi9191"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate **Backend Developer** specializing in Node.js, Express.js and MongoDB. I enjoy developing secure, scalable and efficient backend applications.
+I'm a passionate **Backend Developer** focused on building **scalable, secure, and efficient** backend applications and RESTful APIs.
 
-- 💼 Currently working as a Backend Developer.
-- 🔭 Developing RESTful APIs and backend applications.
-- 🌱 Exploring AWS, cloud infrastructure and advanced backend technologies.
-- ⚙️ Experienced in API integration, authentication and database management.
-- 🚀 Experienced in deploying applications using PM2, Hostinger and AWS EC2.
-- 💬 Ask me about Node.js, Express.js, MongoDB and REST APIs.
-- 📍 Hyderabad, India.
+- 💻 Currently working as a **Backend Developer**
+- 🔭 Experienced in developing **RESTful APIs** and backend modules
+- 🌱 Learning **AWS, Cloud Deployment** and Advanced Backend Development
+- ⚙️ Experienced with server deployment using **PM2** and **Hostinger**
+- 💬 Ask me about **Node.js, Express.js, MongoDB** and **REST APIs**
+- 📍 Based in **Hyderabad, India**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,sql" />
-</p>
+<div align="center">
 
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,py,mysql,nodejs,express,mongodb,html,css,react,git,github,postman,vscode,aws&theme=dark" alt="Tech Stack"/>
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+</div>
 
-### Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,vscode" />
-</p>
+<br/>
 
-### Deployment & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,linux" />
-  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
-</p>
+| Category | Technologies |
+|---|---|
+| **Languages** | JavaScript, Python, SQL |
+| **Backend** | Node.js, Express.js, REST APIs, Mongoose |
+| **Database** | MongoDB, MySQL |
+| **Frontend** | HTML5, CSS3, React.js |
+| **Tools & Deployment** | Git & GitHub, Postman, VS Code, AWS EC2, PM2, Hostinger |
 
 ---
 
@@ -73,75 +59,60 @@ I'm a passionate **Backend Developer** specializing in Node.js, Express.js and M
 
 ### Backend Developer
 
-**Pixelmindsolutions Pvt Ltd | Hyderabad**
-
-- Developed RESTful APIs using Node.js and Express.js.
-- Designed and maintained MongoDB schemas using Mongoose.
-- Implemented authentication, OTP and subscription management modules.
-- Developed CRUD operations and backend integrations.
-- Integrated payment and third-party services.
-- Deployed backend applications and APIs using PM2 and hosting servers.
-- Worked on multiple production backend modules and API maintenance.
+- Developed **RESTful APIs** using Node.js and Express.js
+- Designed and managed **MongoDB database schemas**
+- Implemented **authentication, OTP, payment and subscription** modules
+- Built **CRUD operations** and backend integrations
+- Deployed applications and APIs to **cloud and hosting servers**
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
+| Project | Description | Tech |
 |---|---|---|
-| Mobilink | Backend APIs, authentication and subscription management | Node.js, Express, MongoDB |
-| Vegiffy | Backend development and API integration | Node.js, MongoDB |
-| Political App | Subscription plans, user management and admin APIs | Node.js, Express, MongoDB |
-| PMS CRM | CRM backend development and deployment | Node.js, Express, MongoDB |
-| CredentHealth | Diagnostic module and API development | Node.js, MongoDB |
+| 📱 **Mobilink** | Backend APIs and subscription management | `Node.js` `Express` `MongoDB` |
+| 🥦 **Vegiffy** | Backend development and API integration | `Node.js` `Express` `MongoDB` |
+| 🏛️ **Political App** | Subscription plans, user management and admin APIs | `Node.js` `Express` `MongoDB` |
+| 📊 **PMS CRM** | Backend development and server deployment | `Node.js` `Express` `PM2` |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ganapathi9191&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganapathi9191&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=ganapathi9191&theme=tokyonight&hide_border=true" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ganapathi9191&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganapathi9191&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
 
----
+<br/>
 
-## 📈 Contribution Activity
+<img src="https://streak-stats.demolab.com?user=ganapathi9191&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganapathi9191&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ganapathi9191&theme=algolia&no-frame=true&no-bg=true&margin-w=5" width="100%" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ganapathi9191&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="Contribution Graph"/>
+
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/ganapathi9191">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ganapathivaraprasada123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- 💼 LinkedIn: [Kamisetti Ganapathi Vara Prasad](https://www.linkedin.com/in/kamisetti-ganapathivaraprasad-0ab049245)
+- 🐙 GitHub: [ganapathi9191](https://github.com/ganapathi9191)
+- 📧 Email: [ganapathivaraprasad123@gmail.com](mailto:ganapathivaraprasad123@gmail.com)
 
-<p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
-  <br/>
-  💻 Let's build something amazing together.
-</p>
+<div align="center">
+
+⭐ **Thanks for visiting my profile!** ⭐
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:1f6feb,100:0d1117&height=120&section=footer" alt="Footer"/>
