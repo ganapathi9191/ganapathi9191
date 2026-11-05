@@ -1,0 +1,50 @@
+name: GitHub Metrics
+
+on:
+  # Auto-update every day at 00:00 UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows you to run it manually from the Actions tab
+  workflow_dispatch:
+  # Also runs when you push to main
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Add your token as a repository secret named METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ganapathi9191
+          template: classic
+          filename: github-metrics.svg
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          config_display: large
+
+          # Languages
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+
+          # Coding habits
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+
+          # Commit calendar (full year)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: no
+          plugin_achievements_limit: 8
